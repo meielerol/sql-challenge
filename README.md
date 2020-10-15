@@ -1,5 +1,7 @@
 # sql-challenge
 
+The following steps were completed using a free tool like [http://www.quickdatabasediagrams.com/](http://www.quickdatabasediagrams.com/) to model the database visually and Postgres to create the databases used.
+
 ## Data Model
 
 ![Project Data Model](./data-model.png)
