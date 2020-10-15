@@ -32,7 +32,7 @@ Six schema tables were create:
     - employee id's
     - department id's
     
-The creation of these tables can be found in the [schema.txt](./schema.txt) file.
+The creation of these tables can be found in the [schema.txt](https://github.com/meielerol/sql-challenge/blob/main/schema.sql) file.
 
 ## Data Analysis
 
