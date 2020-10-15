@@ -47,3 +47,21 @@ Each of the following is completed with the select functions just below their li
 6. List all employees in the Sales department, including their employee number, last name, first name, and department name.
 7. List all employees in the Sales and Development departments, including their employee number, last name, first name, and department name.
 8. In descending order, list the frequency count of employee last names, i.e., how many employees share each last name.
+
+## Bonus
+
+
+
+## Epilogue
+
+Some of the information for the epilogue info is as follows:
+- employee id: 499942
+- first name: April
+- last name: Foolsday
+- hire date: Februray 10th, 1997
+- department: Development
+- department id: d005
+- title: Technique Leader
+- salary: $40,000
+
+The script for this info can be found in [epilogue.sql](https://github.com/meielerol/sql-challenge/blob/main/epilogue.sql).
