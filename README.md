@@ -32,7 +32,7 @@ Six schema tables were create:
     - employee id's
     - department id's
     
-
+The creation of these tables can be found in the [schema.txt](./schema.txt) file.
 
 ## Data Analysis
 
