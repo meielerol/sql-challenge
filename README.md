@@ -36,7 +36,7 @@ The creation of these tables can be found in the [schema.txt](https://github.com
 
 ## Data Analysis
 
-Each of the following is completed with the select functions just below their listed requirements.
+Each of the following is completed with the select functions just below their listed requirements. These can be seen in [query.sql](https://github.com/meielerol/sql-challenge/blob/main/query.sql) file.
 1. List the following details of each employee: employee number, last name, first name, sex, and salary.
 2. List first name, last name, and hire date for employees who were hired in 1986.
 3. List the manager of each department with the following information: department number, department name, the manager's employee number, last name, first name.
