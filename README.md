@@ -59,6 +59,8 @@ At the company the average salary is $52,972.23, with a majority of employees ma
 
 At the company the lowest average salary postion is Senior Engineer at $48,505.71 and the highest average salary is Senior Staff at $58,557.39.
 
+These can be seen in [bonus.ipynb](https://github.com/meielerol/sql-challenge/blob/main/bonus.ipynb) file.
+
 ## Epilogue
 
 Some of the information for the epilogue info is as follows:
