@@ -73,4 +73,4 @@ Some of the information for the epilogue info is as follows:
 - title: Technique Leader
 - salary: $40,000
 
-The script for this info can be found in [epilogue.sql](https://github.com/meielerol/sql-challenge/blob/main/epilogue.sql).
+The script for this info can be found in [epilogue.sql](https://github.com/meielerol/sql-challenge/blob/main/epilogue.sql) file.
