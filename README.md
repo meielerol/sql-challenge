@@ -5,6 +5,7 @@ The following steps were completed using a free tool like [http://www.quickdatab
 ## Data Model
 
 ![Project Data Model](./data-model.png)
+
 Project data model. This is an illustration of the logical schema set up.
 
 ## Data Engineering
@@ -51,9 +52,11 @@ Each of the following is completed with the select functions just below their li
 ## Bonus
 
 ![Employee Salary](./Salary-Histogram.png)
+
 At the company the average salary is $52,972.23, with a majority of employees making between $40K-$50K annually.
 
 ![Average Salary by Job Title](./Avg-Salary-Title.png)
+
 At the company the lowest average salary postion is Senior Engineer at $48,505.71 and the highest average salary is Senior Staff at $58,557.39.
 
 ## Epilogue
